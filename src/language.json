@@ -1,0 +1,2834 @@
+[
+    {
+        "code": "eng",
+        "name": "English",
+        "flag": "https://flagcdn.com/gs.svg",
+        "chinese": "英语",
+        "capital": "King Edward Point",
+        "region": "Antarctic",
+        "subregion": "N/A",
+        "timezones": [
+            "UTC-02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "SHP",
+            "name": "Saint Helena pound",
+            "symbol": "£"
+        }
+    },
+    {
+        "code": "fra",
+        "name": "French",
+        "flag": "https://flagcdn.com/ch.svg",
+        "chinese": "法语",
+        "capital": "Bern",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CHF",
+            "name": "Swiss franc",
+            "symbol": "Fr."
+        }
+    },
+    {
+        "code": "gsw",
+        "name": "Swiss German",
+        "flag": "https://flagcdn.com/ch.svg",
+        "chinese": "gsw",
+        "capital": "Bern",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CHF",
+            "name": "Swiss franc",
+            "symbol": "Fr."
+        }
+    },
+    {
+        "code": "ita",
+        "name": "Italian",
+        "flag": "https://flagcdn.com/ch.svg",
+        "chinese": "意大利语",
+        "capital": "Bern",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CHF",
+            "name": "Swiss franc",
+            "symbol": "Fr."
+        }
+    },
+    {
+        "code": "roh",
+        "name": "Romansh",
+        "flag": "https://flagcdn.com/ch.svg",
+        "chinese": "罗曼什语",
+        "capital": "Bern",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CHF",
+            "name": "Swiss franc",
+            "symbol": "Fr."
+        }
+    },
+    {
+        "code": "hun",
+        "name": "Hungarian",
+        "flag": "https://flagcdn.com/hu.svg",
+        "chinese": "匈牙利语",
+        "capital": "Budapest",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "HUF",
+            "name": "Hungarian forint",
+            "symbol": "Ft"
+        }
+    },
+    {
+        "code": "zh-Hant",
+        "name": "Chinese",
+        "flag": "https://flagcdn.com/tw.svg",
+        "chinese": "繁体中文",
+        "capital": "Taipei",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "TWD",
+            "name": "New Taiwan dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "ara",
+        "name": "Arabic",
+        "flag": "https://flagcdn.com/tn.svg",
+        "chinese": "阿拉伯语",
+        "capital": "Tunis",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "TND",
+            "name": "Tunisian dinar",
+            "symbol": "د.ت"
+        }
+    },
+    {
+        "code": "ind",
+        "name": "Indonesian",
+        "flag": "https://flagcdn.com/id.svg",
+        "chinese": "印度尼西亚语",
+        "capital": "Jakarta",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "IDR",
+            "name": "Indonesian rupiah",
+            "symbol": "Rp"
+        }
+    },
+    {
+        "code": "por",
+        "name": "Portuguese",
+        "flag": "https://flagcdn.com/cv.svg",
+        "chinese": "葡萄牙语",
+        "capital": "Praia",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "timezones": [
+            "UTC-01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CVE",
+            "name": "Cape Verdean escudo",
+            "symbol": "Esc"
+        }
+    },
+    {
+        "code": "lao",
+        "name": "Lao",
+        "flag": "https://flagcdn.com/la.svg",
+        "chinese": "老挝语",
+        "capital": "Vientiane",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "LAK",
+            "name": "Lao kip",
+            "symbol": "₭"
+        }
+    },
+    {
+        "code": "nld",
+        "name": "Dutch",
+        "flag": "https://flagcdn.com/bq.svg",
+        "chinese": "荷兰语",
+        "capital": "Kralendijk",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "pap",
+        "name": "Papiamento",
+        "flag": "https://flagcdn.com/bq.svg",
+        "chinese": "pap",
+        "capital": "Kralendijk",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "swa",
+        "name": "Swahili",
+        "flag": "https://flagcdn.com/ug.svg",
+        "chinese": "斯瓦希里语",
+        "capital": "Kampala",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "UGX",
+            "name": "Ugandan shilling",
+            "symbol": "Sh"
+        }
+    },
+    {
+        "code": "cat",
+        "name": "Catalan",
+        "flag": "https://flagcdn.com/ad.svg",
+        "chinese": "加泰罗尼亚语",
+        "capital": "Andorra la Vella",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "run",
+        "name": "Kirundi",
+        "flag": "https://flagcdn.com/bi.svg",
+        "chinese": "rn",
+        "capital": "Gitega",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BIF",
+            "name": "Burundian franc",
+            "symbol": "Fr"
+        }
+    },
+    {
+        "code": "afr",
+        "name": "Afrikaans",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "南非荷兰语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "nbl",
+        "name": "Southern Ndebele",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "nr",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "nso",
+        "name": "Northern Sotho",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "北索托语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "sot",
+        "name": "Southern Sotho",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "南索托语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "ssw",
+        "name": "Swazi",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "ss",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "tsn",
+        "name": "Tswana",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "茨瓦纳语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "tso",
+        "name": "Tsonga",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "聪加语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "ven",
+        "name": "Venda",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "ve",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "xho",
+        "name": "Xhosa",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "科萨语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "zul",
+        "name": "Zulu",
+        "flag": "https://flagcdn.com/za.svg",
+        "chinese": "祖鲁语",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZAR",
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    {
+        "code": "spa",
+        "name": "Spanish",
+        "flag": "https://flagcdn.com/mx.svg",
+        "chinese": "西班牙语",
+        "capital": "Mexico City",
+        "region": "Americas",
+        "subregion": "North America",
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MXN",
+            "name": "Mexican peso",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "cal",
+        "name": "Carolinian",
+        "flag": "https://flagcdn.com/mp.svg",
+        "chinese": "cal",
+        "capital": "Saipan",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "cha",
+        "name": "Chamorro",
+        "flag": "https://flagcdn.com/mp.svg",
+        "chinese": "ch",
+        "capital": "Saipan",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "mkd",
+        "name": "Macedonian",
+        "flag": "https://flagcdn.com/mk.svg",
+        "chinese": "马其顿语",
+        "capital": "Skopje",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MKD",
+            "name": "denar",
+            "symbol": "den"
+        }
+    },
+    {
+        "code": "zh-Hans",
+        "name": "Chinese",
+        "flag": "https://flagcdn.com/cn.svg",
+        "chinese": "简体中文",
+        "capital": "Beijing",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CNY",
+            "name": "Chinese yuan",
+            "symbol": "¥"
+        }
+    },
+    {
+        "code": "nfr",
+        "name": "Guernésiais",
+        "flag": "https://flagcdn.com/gg.svg",
+        "chinese": "nfr",
+        "capital": "St. Peter Port",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "GBP",
+            "name": "British pound",
+            "symbol": "£"
+        }
+    },
+    {
+        "code": "nor",
+        "name": "Norwegian",
+        "flag": "https://flagcdn.com/sj.svg",
+        "chinese": "挪威语",
+        "capital": "Longyearbyen",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NOK",
+            "name": "krone",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "dan",
+        "name": "Danish",
+        "flag": "https://flagcdn.com/fo.svg",
+        "chinese": "丹麦语",
+        "capital": "Tórshavn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "DKK",
+            "name": "Danish krone",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "fao",
+        "name": "Faroese",
+        "flag": "https://flagcdn.com/fo.svg",
+        "chinese": "法罗语",
+        "capital": "Tórshavn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "DKK",
+            "name": "Danish krone",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "rus",
+        "name": "Russian",
+        "flag": "https://flagcdn.com/uz.svg",
+        "chinese": "俄语",
+        "capital": "Tashkent",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "UZS",
+            "name": "Uzbekistani soʻm",
+            "symbol": "so'm"
+        }
+    },
+    {
+        "code": "uzb",
+        "name": "Uzbek",
+        "flag": "https://flagcdn.com/uz.svg",
+        "chinese": "乌兹别克语",
+        "capital": "Tashkent",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "UZS",
+            "name": "Uzbekistani soʻm",
+            "symbol": "so'm"
+        }
+    },
+    {
+        "code": "sin",
+        "name": "Sinhala",
+        "flag": "https://flagcdn.com/lk.svg",
+        "chinese": "僧伽罗语",
+        "capital": "Sri Jayawardenepura Kotte",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "LKR",
+            "name": "Sri Lankan rupee",
+            "symbol": "Rs  රු"
+        }
+    },
+    {
+        "code": "tam",
+        "name": "Tamil",
+        "flag": "https://flagcdn.com/lk.svg",
+        "chinese": "泰米尔语",
+        "capital": "Sri Jayawardenepura Kotte",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "LKR",
+            "name": "Sri Lankan rupee",
+            "symbol": "Rs  රු"
+        }
+    },
+    {
+        "code": "ben",
+        "name": "Bengali",
+        "flag": "https://flagcdn.com/bd.svg",
+        "chinese": "孟加拉语",
+        "capital": "Dhaka",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "startOfWeek": "sunday",
+        "currency": {
+            "code": "BDT",
+            "name": "Bangladeshi taka",
+            "symbol": "৳"
+        }
+    },
+    {
+        "code": "aym",
+        "name": "Aymara",
+        "flag": "https://flagcdn.com/pe.svg",
+        "chinese": "艾马拉语",
+        "capital": "Lima",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PEN",
+            "name": "Peruvian sol",
+            "symbol": "S/ "
+        }
+    },
+    {
+        "code": "que",
+        "name": "Quechua",
+        "flag": "https://flagcdn.com/pe.svg",
+        "chinese": "克丘亚语",
+        "capital": "Lima",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PEN",
+            "name": "Peruvian sol",
+            "symbol": "S/ "
+        }
+    },
+    {
+        "code": "msa",
+        "name": "Malay",
+        "flag": "https://flagcdn.com/sg.svg",
+        "chinese": "马来语",
+        "capital": "Singapore",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "SGD",
+            "name": "Singapore dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "tur",
+        "name": "Turkish",
+        "flag": "https://flagcdn.com/tr.svg",
+        "chinese": "土耳其语",
+        "capital": "Ankara",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "TRY",
+            "name": "Turkish lira",
+            "symbol": "₺"
+        }
+    },
+    {
+        "code": "prs",
+        "name": "Dari",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+        "chinese": "达里语",
+        "capital": "Kabul",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+04:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AFN",
+            "name": "Afghan afghani",
+            "symbol": "؋"
+        }
+    },
+    {
+        "code": "pus",
+        "name": "Pashto",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+        "chinese": "普什图语",
+        "capital": "Kabul",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+04:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AFN",
+            "name": "Afghan afghani",
+            "symbol": "؋"
+        }
+    },
+    {
+        "code": "tuk",
+        "name": "Turkmen",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+        "chinese": "土库曼语",
+        "capital": "Kabul",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+04:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AFN",
+            "name": "Afghan afghani",
+            "symbol": "؋"
+        }
+    },
+    {
+        "code": "rar",
+        "name": "Cook Islands Māori",
+        "flag": "https://flagcdn.com/ck.svg",
+        "chinese": "rar",
+        "capital": "Avarua",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CKD",
+            "name": "Cook Islands dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "fin",
+        "name": "Finnish",
+        "flag": "https://flagcdn.com/fi.svg",
+        "chinese": "芬兰语",
+        "capital": "Helsinki",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "swe",
+        "name": "Swedish",
+        "flag": "https://flagcdn.com/fi.svg",
+        "chinese": "瑞典语",
+        "capital": "Helsinki",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "smo",
+        "name": "Samoan",
+        "flag": "https://flagcdn.com/tk.svg",
+        "chinese": "萨摩亚语",
+        "capital": "Fakaofo",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NZD",
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "tkl",
+        "name": "Tokelauan",
+        "flag": "https://flagcdn.com/tk.svg",
+        "chinese": "tkl",
+        "capital": "Fakaofo",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NZD",
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "pov",
+        "name": "Upper Guinea Creole",
+        "flag": "https://flagcdn.com/gw.svg",
+        "chinese": "pov",
+        "capital": "Bissau",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "timezones": [
+            "UTC"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "XOF",
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    {
+        "code": "aze",
+        "name": "Azerbaijani",
+        "flag": "https://flagcdn.com/az.svg",
+        "chinese": "阿塞拜疆语",
+        "capital": "Baku",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AZN",
+            "name": "Azerbaijani manat",
+            "symbol": "₼"
+        }
+    },
+    {
+        "code": "kor",
+        "name": "Korean",
+        "flag": "https://flagcdn.com/kp.svg",
+        "chinese": "韩语",
+        "capital": "Pyongyang",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "KPW",
+            "name": "North Korean won",
+            "symbol": "₩"
+        }
+    },
+    {
+        "code": "mfe",
+        "name": "Mauritian Creole",
+        "flag": "https://flagcdn.com/mu.svg",
+        "chinese": "mfe",
+        "capital": "Port Louis",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MUR",
+            "name": "Mauritian rupee",
+            "symbol": "₨"
+        }
+    },
+    {
+        "code": "ell",
+        "name": "Greek",
+        "flag": "https://flagcdn.com/gr.svg",
+        "chinese": "希腊语",
+        "capital": "Athens",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "hrv",
+        "name": "Croatian",
+        "flag": "https://flagcdn.com/hr.svg",
+        "chinese": "克罗地亚语",
+        "capital": "Zagreb",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "ber",
+        "name": "Berber",
+        "flag": "https://flagcdn.com/ma.svg",
+        "chinese": "ber",
+        "capital": "Rabat",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "timezones": [
+            "UTC"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MAD",
+            "name": "Moroccan dirham",
+            "symbol": "د.م."
+        }
+    },
+    {
+        "code": "fij",
+        "name": "Fijian",
+        "flag": "https://flagcdn.com/fj.svg",
+        "chinese": "fj",
+        "capital": "Suva",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "FJD",
+            "name": "Fijian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "hif",
+        "name": "Fiji Hindi",
+        "flag": "https://flagcdn.com/fj.svg",
+        "chinese": "hif",
+        "capital": "Suva",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "FJD",
+            "name": "Fijian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "deu",
+        "name": "German",
+        "flag": "https://flagcdn.com/li.svg",
+        "chinese": "德语",
+        "capital": "Vaduz",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CHF",
+            "name": "Swiss franc",
+            "symbol": "Fr"
+        }
+    },
+    {
+        "code": "nep",
+        "name": "Nepali",
+        "flag": "https://flagcdn.com/np.svg",
+        "chinese": "尼泊尔语",
+        "capital": "Kathmandu",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+05:45"
+        ],
+        "startOfWeek": "sunday",
+        "currency": {
+            "code": "NPR",
+            "name": "Nepalese rupee",
+            "symbol": "₨"
+        }
+    },
+    {
+        "code": "kat",
+        "name": "Georgian",
+        "flag": "https://flagcdn.com/ge.svg",
+        "chinese": "格鲁吉亚语",
+        "capital": "Tbilisi",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "GEL",
+            "name": "lari",
+            "symbol": "₾"
+        }
+    },
+    {
+        "code": "urd",
+        "name": "Urdu",
+        "flag": "https://flagcdn.com/pk.svg",
+        "chinese": "乌尔都语",
+        "capital": "Islamabad",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PKR",
+            "name": "Pakistani rupee",
+            "symbol": "₨"
+        }
+    },
+    {
+        "code": "hmo",
+        "name": "Hiri Motu",
+        "flag": "https://flagcdn.com/pg.svg",
+        "chinese": "ho",
+        "capital": "Port Moresby",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PGK",
+            "name": "Papua New Guinean kina",
+            "symbol": "K"
+        }
+    },
+    {
+        "code": "tpi",
+        "name": "Tok Pisin",
+        "flag": "https://flagcdn.com/pg.svg",
+        "chinese": "tpi",
+        "capital": "Port Moresby",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PGK",
+            "name": "Papua New Guinean kina",
+            "symbol": "K"
+        }
+    },
+    {
+        "code": "pih",
+        "name": "Norfuk",
+        "flag": "https://flagcdn.com/nf.svg",
+        "chinese": "pih",
+        "capital": "Kingston",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "timezones": [
+            "UTC+11:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "mlg",
+        "name": "Malagasy",
+        "flag": "https://flagcdn.com/mg.svg",
+        "chinese": "马拉加斯语",
+        "capital": "Antananarivo",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MGA",
+            "name": "Malagasy ariary",
+            "symbol": "Ar"
+        }
+    },
+    {
+        "code": "hin",
+        "name": "Hindi",
+        "flag": "https://flagcdn.com/in.svg",
+        "chinese": "印地语",
+        "capital": "New Delhi",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "INR",
+            "name": "Indian rupee",
+            "symbol": "₹"
+        }
+    },
+    {
+        "code": "cnr",
+        "name": "Montenegrin",
+        "flag": "https://flagcdn.com/me.svg",
+        "chinese": "塞尔维亚语（黑山）",
+        "capital": "Podgorica",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "grn",
+        "name": "Guaraní",
+        "flag": "https://flagcdn.com/py.svg",
+        "chinese": "瓜拉尼语",
+        "capital": "Asunción",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PYG",
+            "name": "Paraguayan guaraní",
+            "symbol": "₲"
+        }
+    },
+    {
+        "code": "ukr",
+        "name": "Ukrainian",
+        "flag": "https://flagcdn.com/ua.svg",
+        "chinese": "乌克兰语",
+        "capital": "Kyiv",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "UAH",
+            "name": "Ukrainian hryvnia",
+            "symbol": "₴"
+        }
+    },
+    {
+        "code": "glv",
+        "name": "Manx",
+        "flag": "https://flagcdn.com/im.svg",
+        "chinese": "gv",
+        "capital": "Douglas",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "GBP",
+            "name": "British pound",
+            "symbol": "£"
+        }
+    },
+    {
+        "code": "her",
+        "name": "Herero",
+        "flag": "https://flagcdn.com/na.svg",
+        "chinese": "hz",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NAD",
+            "name": "Namibian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "hgm",
+        "name": "Khoekhoe",
+        "flag": "https://flagcdn.com/na.svg",
+        "chinese": "hgm",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NAD",
+            "name": "Namibian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "kwn",
+        "name": "Kwangali",
+        "flag": "https://flagcdn.com/na.svg",
+        "chinese": "kwn",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NAD",
+            "name": "Namibian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "loz",
+        "name": "Lozi",
+        "flag": "https://flagcdn.com/na.svg",
+        "chinese": "loz",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NAD",
+            "name": "Namibian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "ndo",
+        "name": "Ndonga",
+        "flag": "https://flagcdn.com/na.svg",
+        "chinese": "ng",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NAD",
+            "name": "Namibian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "bul",
+        "name": "Bulgarian",
+        "flag": "https://flagcdn.com/bg.svg",
+        "chinese": "保加利亚语",
+        "capital": "Sofia",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BGN",
+            "name": "Bulgarian lev",
+            "symbol": "лв"
+        }
+    },
+    {
+        "code": "kal",
+        "name": "Greenlandic",
+        "flag": "https://flagcdn.com/gl.svg",
+        "chinese": "kl",
+        "capital": "Nuuk",
+        "region": "Americas",
+        "subregion": "North America",
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC+00:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "DKK",
+            "name": "krone",
+            "symbol": "kr."
+        }
+    },
+    {
+        "code": "khm",
+        "name": "Khmer",
+        "flag": "https://flagcdn.com/kh.svg",
+        "chinese": "高棉语",
+        "capital": "Phnom Penh",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "KHR",
+            "name": "Cambodian riel",
+            "symbol": "៛"
+        }
+    },
+    {
+        "code": "arc",
+        "name": "Aramaic",
+        "flag": "https://flagcdn.com/iq.svg",
+        "chinese": "arc",
+        "capital": "Baghdad",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "sunday",
+        "currency": {
+            "code": "IQD",
+            "name": "Iraqi dinar",
+            "symbol": "ع.د"
+        }
+    },
+    {
+        "code": "ckb",
+        "name": "Sorani",
+        "flag": "https://flagcdn.com/iq.svg",
+        "chinese": "中库尔德语",
+        "capital": "Baghdad",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "sunday",
+        "currency": {
+            "code": "IQD",
+            "name": "Iraqi dinar",
+            "symbol": "ع.د"
+        }
+    },
+    {
+        "code": "kir",
+        "name": "Kyrgyz",
+        "flag": "https://flagcdn.com/kg.svg",
+        "chinese": "柯尔克孜语",
+        "capital": "Bishkek",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "KGS",
+            "name": "Kyrgyzstani som",
+            "symbol": "с"
+        }
+    },
+    {
+        "code": "nya",
+        "name": "Chewa",
+        "flag": "https://flagcdn.com/mw.svg",
+        "chinese": "齐切瓦语",
+        "capital": "Lilongwe",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MWK",
+            "name": "Malawian kwacha",
+            "symbol": "MK"
+        }
+    },
+    {
+        "code": "bos",
+        "name": "Bosnian",
+        "flag": "https://flagcdn.com/ba.svg",
+        "chinese": "波斯尼亚语",
+        "capital": "Sarajevo",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BAM",
+            "name": "Bosnia and Herzegovina convertible mark",
+            "symbol": "KM"
+        }
+    },
+    {
+        "code": "srp",
+        "name": "Serbian",
+        "flag": "https://flagcdn.com/ba.svg",
+        "chinese": "塞尔维亚语",
+        "capital": "Sarajevo",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BAM",
+            "name": "Bosnia and Herzegovina convertible mark",
+            "symbol": "KM"
+        }
+    },
+    {
+        "code": "amh",
+        "name": "Amharic",
+        "flag": "https://flagcdn.com/et.svg",
+        "chinese": "阿姆哈拉语",
+        "capital": "Addis Ababa",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ETB",
+            "name": "Ethiopian birr",
+            "symbol": "Br"
+        }
+    },
+    {
+        "code": "eus",
+        "name": "Basque",
+        "flag": "https://flagcdn.com/es.svg",
+        "chinese": "巴斯克语",
+        "capital": "Madrid",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "glc",
+        "name": "Galician",
+        "flag": "https://flagcdn.com/es.svg",
+        "chinese": "glc",
+        "capital": "Madrid",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "slv",
+        "name": "Slovene",
+        "flag": "https://flagcdn.com/si.svg",
+        "chinese": "斯洛文尼亚语",
+        "capital": "Ljubljana",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "mah",
+        "name": "Marshallese",
+        "flag": "https://flagcdn.com/mh.svg",
+        "chinese": "mh",
+        "capital": "Majuro",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "isl",
+        "name": "Icelandic",
+        "flag": "https://flagcdn.com/is.svg",
+        "chinese": "冰岛语",
+        "capital": "Reykjavik",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ISK",
+            "name": "Icelandic króna",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "ltz",
+        "name": "Luxembourgish",
+        "flag": "https://flagcdn.com/lu.svg",
+        "chinese": "卢森堡语",
+        "capital": "Luxembourg",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "nau",
+        "name": "Nauru",
+        "flag": "https://flagcdn.com/nr.svg",
+        "chinese": "na",
+        "capital": "Yaren",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "mey",
+        "name": "Hassaniya",
+        "flag": "https://flagcdn.com/eh.svg",
+        "chinese": "mey",
+        "capital": "El Aaiún",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "DZD",
+            "name": "Algerian dinar",
+            "symbol": "دج"
+        }
+    },
+    {
+        "code": "tha",
+        "name": "Thai",
+        "flag": "https://flagcdn.com/th.svg",
+        "chinese": "泰语",
+        "capital": "Bangkok",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "THB",
+            "name": "Thai baht",
+            "symbol": "฿"
+        }
+    },
+    {
+        "code": "hat",
+        "name": "Haitian Creole",
+        "flag": "https://flagcdn.com/ht.svg",
+        "chinese": "海地克里奥尔语",
+        "capital": "Port-au-Prince",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "HTG",
+            "name": "Haitian gourde",
+            "symbol": "G"
+        }
+    },
+    {
+        "code": "tvl",
+        "name": "Tuvaluan",
+        "flag": "https://flagcdn.com/tv.svg",
+        "chinese": "tvl",
+        "capital": "Funafuti",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "bel",
+        "name": "Belarusian",
+        "flag": "https://flagcdn.com/by.svg",
+        "chinese": "白俄罗斯语",
+        "capital": "Minsk",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BYN",
+            "name": "Belarusian ruble",
+            "symbol": "Br"
+        }
+    },
+    {
+        "code": "lav",
+        "name": "Latvian",
+        "flag": "https://flagcdn.com/lv.svg",
+        "chinese": "拉脱维亚语",
+        "capital": "Riga",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "pau",
+        "name": "Palauan",
+        "flag": "https://flagcdn.com/pw.svg",
+        "chinese": "pau",
+        "capital": "Ngerulmud",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "fil",
+        "name": "Filipino",
+        "flag": "https://flagcdn.com/ph.svg",
+        "chinese": "菲律宾语",
+        "capital": "Manila",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PHP",
+            "name": "Philippine peso",
+            "symbol": "₱"
+        }
+    },
+    {
+        "code": "kon",
+        "name": "Kikongo",
+        "flag": "https://flagcdn.com/cd.svg",
+        "chinese": "kg",
+        "capital": "Kinshasa",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CDF",
+            "name": "Congolese franc",
+            "symbol": "FC"
+        }
+    },
+    {
+        "code": "lin",
+        "name": "Lingala",
+        "flag": "https://flagcdn.com/cd.svg",
+        "chinese": "林加拉语",
+        "capital": "Kinshasa",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CDF",
+            "name": "Congolese franc",
+            "symbol": "FC"
+        }
+    },
+    {
+        "code": "lua",
+        "name": "Tshiluba",
+        "flag": "https://flagcdn.com/cd.svg",
+        "chinese": "lua",
+        "capital": "Kinshasa",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CDF",
+            "name": "Congolese franc",
+            "symbol": "FC"
+        }
+    },
+    {
+        "code": "som",
+        "name": "Somali",
+        "flag": "https://flagcdn.com/so.svg",
+        "chinese": "索马里语",
+        "capital": "Mogadishu",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "SOS",
+            "name": "Somali shilling",
+            "symbol": "Sh"
+        }
+    },
+    {
+        "code": "ces",
+        "name": "Czech",
+        "flag": "https://flagcdn.com/cz.svg",
+        "chinese": "捷克语",
+        "capital": "Prague",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CZK",
+            "name": "Czech koruna",
+            "symbol": "Kč"
+        }
+    },
+    {
+        "code": "slk",
+        "name": "Slovak",
+        "flag": "https://flagcdn.com/cz.svg",
+        "chinese": "斯洛伐克语",
+        "capital": "Prague",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "CZK",
+            "name": "Czech koruna",
+            "symbol": "Kč"
+        }
+    },
+    {
+        "code": "bis",
+        "name": "Bislama",
+        "flag": "https://flagcdn.com/vu.svg",
+        "chinese": "bi",
+        "capital": "Port Vila",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "VUV",
+            "name": "Vanuatu vatu",
+            "symbol": "Vt"
+        }
+    },
+    {
+        "code": "niu",
+        "name": "Niuean",
+        "flag": "https://flagcdn.com/nu.svg",
+        "chinese": "niu",
+        "capital": "Alofi",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NZD",
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "kin",
+        "name": "Kinyarwanda",
+        "flag": "https://flagcdn.com/rw.svg",
+        "chinese": "卢旺达语",
+        "capital": "Kigali",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "RWF",
+            "name": "Rwandan franc",
+            "symbol": "Fr"
+        }
+    },
+    {
+        "code": "est",
+        "name": "Estonian",
+        "flag": "https://flagcdn.com/ee.svg",
+        "chinese": "爱沙尼亚语",
+        "capital": "Tallinn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "ron",
+        "name": "Romanian",
+        "flag": "https://flagcdn.com/ro.svg",
+        "chinese": "罗马尼亚语",
+        "capital": "Bucharest",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "RON",
+            "name": "Romanian leu",
+            "symbol": "lei"
+        }
+    },
+    {
+        "code": "tet",
+        "name": "Tetum",
+        "flag": "https://flagcdn.com/tl.svg",
+        "chinese": "tet",
+        "capital": "Dili",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "vie",
+        "name": "Vietnamese",
+        "flag": "https://flagcdn.com/vn.svg",
+        "chinese": "越南语",
+        "capital": "Hanoi",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "VND",
+            "name": "Vietnamese đồng",
+            "symbol": "₫"
+        }
+    },
+    {
+        "code": "lat",
+        "name": "Latin",
+        "flag": "https://flagcdn.com/va.svg",
+        "chinese": "拉丁语",
+        "capital": "Vatican City",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "de",
+        "name": "German",
+        "flag": "https://flagcdn.com/at.svg",
+        "chinese": "德语",
+        "capital": "Vienna",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "gle",
+        "name": "Irish",
+        "flag": "https://flagcdn.com/ie.svg",
+        "chinese": "爱尔兰语",
+        "capital": "Dublin",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "nno",
+        "name": "Norwegian Nynorsk",
+        "flag": "https://flagcdn.com/no.svg",
+        "chinese": "挪威尼诺斯克语",
+        "capital": "Oslo",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NOK",
+            "name": "Norwegian krone",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "nob",
+        "name": "Norwegian Bokmål",
+        "flag": "https://flagcdn.com/no.svg",
+        "chinese": "书面挪威语",
+        "capital": "Oslo",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NOK",
+            "name": "Norwegian krone",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "smi",
+        "name": "Sami",
+        "flag": "https://flagcdn.com/no.svg",
+        "chinese": "smi",
+        "capital": "Oslo",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NOK",
+            "name": "Norwegian krone",
+            "symbol": "kr"
+        }
+    },
+    {
+        "code": "sag",
+        "name": "Sango",
+        "flag": "https://flagcdn.com/cf.svg",
+        "chinese": "sg",
+        "capital": "Bangui",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "XAF",
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    {
+        "code": "tir",
+        "name": "Tigrinya",
+        "flag": "https://flagcdn.com/er.svg",
+        "chinese": "提格利尼亚语",
+        "capital": "Asmara",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ERN",
+            "name": "Eritrean nakfa",
+            "symbol": "Nfk"
+        }
+    },
+    {
+        "code": "lit",
+        "name": "Lithuanian",
+        "flag": "https://flagcdn.com/lt.svg",
+        "chinese": "立陶宛语",
+        "capital": "Vilnius",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "kaz",
+        "name": "Kazakh",
+        "flag": "https://flagcdn.com/kz.svg",
+        "chinese": "哈萨克语",
+        "capital": "Nur-Sultan",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "KZT",
+            "name": "Kazakhstani tenge",
+            "symbol": "₸"
+        }
+    },
+    {
+        "code": "hye",
+        "name": "Armenian",
+        "flag": "https://flagcdn.com/am.svg",
+        "chinese": "亚美尼亚语",
+        "capital": "Yerevan",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AMD",
+            "name": "Armenian dram",
+            "symbol": "֏"
+        }
+    },
+    {
+        "code": "nrf",
+        "name": "Jèrriais",
+        "flag": "https://flagcdn.com/je.svg",
+        "chinese": "nrf",
+        "capital": "Saint Helier",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "GBP",
+            "name": "British pound",
+            "symbol": "£"
+        }
+    },
+    {
+        "code": "jpn",
+        "name": "Japanese",
+        "flag": "https://flagcdn.com/jp.svg",
+        "chinese": "日语",
+        "capital": "Tokyo",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "JPY",
+            "name": "Japanese yen",
+            "symbol": "¥"
+        }
+    },
+    {
+        "code": "crs",
+        "name": "Seychellois Creole",
+        "flag": "https://flagcdn.com/sc.svg",
+        "chinese": "crs",
+        "capital": "Victoria",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "SCR",
+            "name": "Seychellois rupee",
+            "symbol": "₨"
+        }
+    },
+    {
+        "code": "tgk",
+        "name": "Tajik",
+        "flag": "https://flagcdn.com/tj.svg",
+        "chinese": "塔吉克语",
+        "capital": "Dushanbe",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "TJS",
+            "name": "Tajikistani somoni",
+            "symbol": "ЅМ"
+        }
+    },
+    {
+        "code": "mlt",
+        "name": "Maltese",
+        "flag": "https://flagcdn.com/mt.svg",
+        "chinese": "马耳他语",
+        "capital": "Valletta",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "sqi",
+        "name": "Albanian",
+        "flag": "https://flagcdn.com/xk.svg",
+        "chinese": "阿尔巴尼亚语",
+        "capital": "Pristina",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    {
+        "code": "div",
+        "name": "Maldivian",
+        "flag": "https://flagcdn.com/mv.svg",
+        "chinese": "迪维希语",
+        "capital": "Malé",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "startOfWeek": "sunday",
+        "currency": {
+            "code": "MVR",
+            "name": "Maldivian rufiyaa",
+            "symbol": ".ރ"
+        }
+    },
+    {
+        "code": "fas",
+        "name": "Persian (Farsi)",
+        "flag": "https://flagcdn.com/ir.svg",
+        "chinese": "波斯语",
+        "capital": "Tehran",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+03:30"
+        ],
+        "startOfWeek": "saturday",
+        "currency": {
+            "code": "IRR",
+            "name": "Iranian rial",
+            "symbol": "﷼"
+        }
+    },
+    {
+        "code": "bjz",
+        "name": "Belizean Creole",
+        "flag": "https://flagcdn.com/bz.svg",
+        "chinese": "bjz",
+        "capital": "Belmopan",
+        "region": "Americas",
+        "subregion": "Central America",
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BZD",
+            "name": "Belize dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "mya",
+        "name": "Burmese",
+        "flag": "https://flagcdn.com/mm.svg",
+        "chinese": "缅甸语",
+        "capital": "Naypyidaw",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MMK",
+            "name": "Burmese kyat",
+            "symbol": "Ks"
+        }
+    },
+    {
+        "code": "dzo",
+        "name": "Dzongkha",
+        "flag": "https://flagcdn.com/bt.svg",
+        "chinese": "dz",
+        "capital": "Thimphu",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "BTN",
+            "name": "Bhutanese ngultrum",
+            "symbol": "Nu."
+        }
+    },
+    {
+        "code": "jam",
+        "name": "Jamaican Patois",
+        "flag": "https://flagcdn.com/jm.svg",
+        "chinese": "jam",
+        "capital": "Kingston",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "JMD",
+            "name": "Jamaican dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "pol",
+        "name": "Polish",
+        "flag": "https://flagcdn.com/pl.svg",
+        "chinese": "波兰语",
+        "capital": "Warsaw",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "PLN",
+            "name": "Polish złoty",
+            "symbol": "zł"
+        }
+    },
+    {
+        "code": "zdj",
+        "name": "Comorian",
+        "flag": "https://flagcdn.com/km.svg",
+        "chinese": "zdj",
+        "capital": "Moroni",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "KMF",
+            "name": "Comorian franc",
+            "symbol": "Fr"
+        }
+    },
+    {
+        "code": "ton",
+        "name": "Tongan",
+        "flag": "https://flagcdn.com/to.svg",
+        "chinese": "汤加语",
+        "capital": "Nuku'alofa",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "TOP",
+            "name": "Tongan paʻanga",
+            "symbol": "T$"
+        }
+    },
+    {
+        "code": "gil",
+        "name": "Gilbertese",
+        "flag": "https://flagcdn.com/ki.svg",
+        "chinese": "gil",
+        "capital": "South Tarawa",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "timezones": [
+            "UTC+12:00",
+            "UTC+13:00",
+            "UTC+14:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "AUD",
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "bwg",
+        "name": "Chibarwe",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "bwg",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "kck",
+        "name": "Kalanga",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "kck",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "khi",
+        "name": "Khoisan",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "khi",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "ndc",
+        "name": "Ndau",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "ndc",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "nde",
+        "name": "Northern Ndebele",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "nd",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "sna",
+        "name": "Shona",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "绍纳语",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "toi",
+        "name": "Tonga",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "toi",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "zib",
+        "name": "Zimbabwean Sign Language",
+        "flag": "https://flagcdn.com/zw.svg",
+        "chinese": "zib",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "ZWL",
+            "name": "Zimbabwean dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "mon",
+        "name": "Mongolian",
+        "flag": "https://flagcdn.com/mn.svg",
+        "chinese": "蒙古语",
+        "capital": "Ulan Bator",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "MNT",
+            "name": "Mongolian tögrög",
+            "symbol": "₮"
+        }
+    },
+    {
+        "code": "heb",
+        "name": "Hebrew",
+        "flag": "https://flagcdn.com/il.svg",
+        "chinese": "希伯来语",
+        "capital": "Jerusalem",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "startOfWeek": "sunday",
+        "currency": {
+            "code": "ILS",
+            "name": "Israeli new shekel",
+            "symbol": "₪"
+        }
+    },
+    {
+        "code": "mri",
+        "name": "Māori",
+        "flag": "https://flagcdn.com/nz.svg",
+        "chinese": "毛利语",
+        "capital": "Wellington",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NZD",
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    {
+        "code": "nzs",
+        "name": "New Zealand Sign Language",
+        "flag": "https://flagcdn.com/nz.svg",
+        "chinese": "nzs",
+        "capital": "Wellington",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ],
+        "startOfWeek": "monday",
+        "currency": {
+            "code": "NZD",
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    }
+]

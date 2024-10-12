@@ -1,0 +1,31 @@
+{
+  "name": "world-info-kit",
+  "version": "1.0.0",
+  "description": "A package containing global information including languages, countries, timezones, and currencies.",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "languages",
+    "countries",
+    "timezones",
+    "currencies",
+    "world",
+    "global data"
+  ],
+  "author": "1140918095@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibibala/world-info-kit"
+  },
+  "bugs": {
+    "url": "https://github.com/bibibala/world-info-kit/issues"
+  },
+  "homepage": "https://github.com/bibibala/world-info-kit#readme",
+  "dependencies": {}
+}
